@@ -1,2 +1,5 @@
-# BICMA
- Breast Invasive Carcinom MIRSEQ Analysis
+#  Breast Invasive Carcinoma MIRSEQ Analysis
+
+Breast invasive carcinoma is one of the most commonly diagnosed cancers in Canada, and has a strong genetic basis for its expression. Staging in relation to breast cancer outlines if (and how far) cancer has spread once diagnosed. Of the three main staging features in the TNM system, the N stage represents whether or not the cancer has spread to nearby lymph nodes. In this study we aim to investigate whether miRNAseq reads can be used as discriminating features of a binary pathological N stage classification system (whether or not a given patient’s cancer has spread to any nearby lymph nodes or none). To perform this investigation, we applied two statistical tests: Spearman correlation and Mann Whitney U tests in SPSS, and performed both unsupervised and supervised learning. The result of this investigation has concluded that it is unlikely that miRNA can serve as a discriminating feature for pathological N staging.
+
+[You can view the full report here.](Breast_Invasive_Carcinoma_MIRSEQ_Analysis.pdf)
